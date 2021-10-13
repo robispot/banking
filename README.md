@@ -1,4 +1,8 @@
 # banking
+
+Master the concept of microservices API development using the Hexagonal Architecture in Go
+https://www.udemy.com/course/rest-based-microservices-api-development-in-go-lang
+
 ##### Run `./start.sh` to download the dependencies and run the the application
 
 To run the application, you have to define the environment variables, default values of the variables are defined inside `start.sh`
